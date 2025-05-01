@@ -15,9 +15,9 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "13B07F861A680F5B00A75B9A"
-               BuildableName = "ShopRecord.app"
-               BlueprintName = "ShopRecord"
-               ReferencedContainer = "container:ShopRecord.xcodeproj">
+               BuildableName = "Lexiword.app"
+               BlueprintName = "Lexiword"
+               ReferencedContainer = "container:Lexiword.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
       </BuildActionEntries>
@@ -33,9 +33,9 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "00E356ED1AD99517003FC87E"
-               BuildableName = "ShopRecordTests.xctest"
-               BlueprintName = "ShopRecordTests"
-               ReferencedContainer = "container:ShopRecord.xcodeproj">
+               BuildableName = "LexiwordTests.xctest"
+               BlueprintName = "LexiwordTests"
+               ReferencedContainer = "container:Lexiword.xcodeproj">
             </BuildableReference>
          </TestableReference>
       </Testables>
@@ -55,9 +55,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "13B07F861A680F5B00A75B9A"
-            BuildableName = "ShopRecord.app"
-            BlueprintName = "ShopRecord"
-            ReferencedContainer = "container:ShopRecord.xcodeproj">
+            BuildableName = "Lexiword.app"
+            BlueprintName = "Lexiword"
+            ReferencedContainer = "container:Lexiword.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
    </LaunchAction>
@@ -72,9 +72,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "13B07F861A680F5B00A75B9A"
-            BuildableName = "ShopRecord.app"
-            BlueprintName = "ShopRecord"
-            ReferencedContainer = "container:ShopRecord.xcodeproj">
+            BuildableName = "Lexiword.app"
+            BlueprintName = "Lexiword"
+            ReferencedContainer = "container:Lexiword.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
    </ProfileAction>
